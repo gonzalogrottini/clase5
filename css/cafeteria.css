@@ -1,0 +1,33 @@
+*{
+    list-style: none;
+}
+.clase-header{
+    background-color:burlywood;
+}
+.clase-titulo
+{    margin: 15px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    color: chocolate;
+    
+}
+.clase-nosotros,.clase-contactos
+{
+ color: rgb(138, 82, 7);
+ border: 1px;
+}
+.Lunes,.Martes,.Miercoles,.Jueves,.Viernes
+{
+    color: rgb(99, 56, 4);
+}
+.Finde
+{
+    color: rgb(240, 168, 79);
+}
+.Horarios
+{
+ background-color:rgb(237, 202, 176);
+}
+.footer
+{
+ background-color: antiquewhite;
+}
